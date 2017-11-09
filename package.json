@@ -1,0 +1,23 @@
+{
+	"name": "diary",
+	"version": "1.0.0",
+	"description": "Guide to create a diary",
+	"main": "gulpfile.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Predve4niy/diary.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Predve4niy/diary/issues"
+	},
+	"homepage": "https://github.com/Predve4niy/diary#readme",
+	"devDependencies": {
+		"gulp": "github:gulpjs/gulp#4.0",
+		"gulp-serve": "^1.4.0"
+	}
+}
