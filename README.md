@@ -14,7 +14,6 @@ Guide to create a diary
 
 ```html
 <!DOCTYPE html>
-<!DOCTYPE html>
 <html lang="en">
 
   <head>
